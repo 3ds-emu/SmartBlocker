@@ -18,17 +18,7 @@
 
     "background": {
         "scripts": [ "SmartBlock.js" ],
-        "persistent": true,
-
-        "browser_action": {
-            "default_icon": {
-                "16": "images/icon.png",
-                 "24": "images/icon.png",         
-                  "32": "images/icon.png"
-            }
-
-        }
-
+        "persistent": true
 
     }
 
