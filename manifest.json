@@ -1,7 +1,7 @@
 {
     "name": "SmartBlocker",
     "version": "1.2",
-    "description": "SmartBlocker allows you to surf the internet without any pesky ads. Our service will remove almost any ad on the internet!",
+    "description": "SmartBlocker allows you to surf the internet without any pesky ads. Our service will remove almost every ad on the internet!",
     "options_page": "options.html",
     "manifest_version": 2,
 
