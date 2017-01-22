@@ -3,7 +3,7 @@ chrome.webRequest.onBeforeRequest.addListener(
         return {cancel: true};
     },
     {
-        urls: ["*://*.doubleclick.net/*", "*://www.googleadservices.com/*", "*://*.taboola.com/*", "*://*.adzerk.net/*"]
+        urls: ["*://*.doubleclick.net/*", "*://www.googleadservices.com/*", "*://*.taboola.com/*", "*://*.adzerk.net/*", "*://*.adroll.com"]
     },
     ["blocking"]
 );
